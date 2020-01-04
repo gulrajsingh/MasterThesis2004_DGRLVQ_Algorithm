@@ -1,0 +1,212 @@
+<p align="center"><span lang="en-us"><b><font size="5">MiniDoc for Cool-D</font></b>
+</span></p>
+<p><span lang="en-us"><font color="#000080"><b>1. General</b></font> </span>
+
+</p>
+<p><b><span lang="en-us">Cool-D Distribution:</span></b></p>
+<p><span lang="en-us">This library is free software; you can redistribute it and/or
+  modify it under the terms of the GNU Lesser General Public
+  License as published by the Free Software Foundation; either
+  version 2.1 of the License, or (at your option) any later version.
+
+</span>
+
+</p>
+<p><span lang="en-us">This library is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  Lesser General Public License for more details.
+
+</span>
+
+</p>
+<p><span lang="en-us">You should have received a copy of the GNU Lesser General Public
+  License along with this library; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+
+</span>
+
+
+</p>
+<p><b><span lang="en-us">Code Written by:
+   </span></b>
+   </p>
+<p><span lang="en-us">Gulraj Singh, Master of Science in Information Engineering 2002-2004,
+   Department of Mathematics & Computer Science
+   University Osnabrück, Germany
+   <a href="mailto:gsingh@uos.de">gsingh@uos.de</a> or <a href="mailto:gulrajsingh@yahoo.com">gulrajsingh@yahoo.com</a>
+</span>
+</p>
+<p><span lang="en-us"><b>Citation:</b> </span>
+
+</p>
+<p><span lang="en-us">If you use or publish any results derived from the use of this program please cite:
+</span>
+</p>
+<p><span lang="en-us">“Dynamic-GRLVQ” Algorithm: An application to cancer prediction and Bioinformatics,
+University of Osnabrück, Germany, Department of Mathematics and Computer Science;
+University of Twente, Netherlands, Department of Computer Science; Master Thesis Nov 2004
+
+Copyright (C) 2004  Gulraj Singh </span>
+
+</p>
+<p><span lang="en-us">Introduction to DGRLVQ algorithm can be found in the master thesis provided along within the package.
+
+This document provides an implementation of DGRLVQ that might be
+used for experimental purposes and research activity, only.
+
+Don't use the implementation for any security related tasks.
+ 
+</span>
+ 
+</p>
+<p><span lang="en-us"><b>Requirements:</b> </span>
+</p>
+<p><span lang="en-us">System with installed JRE( 1.4 and above), Screen resolution 1024x800 and above,
+Netbeans3.5 and above recommended( if you want to play around with the source code)</span></p>
+<p><b><span lang="en-us">Installation:</span></b></p>
+<p><span lang="en-us">Copy the whole Cool-D Directory on your local hard-disk.
+<b><font color="#FF0000">Never run the software directly from the CD because 
+software has features to create reports as text files that is usually easy if 
+installed on local disk.</font></b></span></p>
+<p><font color="#000080"><b><span lang="en-us">2.   Quick start</span></b></font></p>
+<p><span lang="en-us">Cool-Dv1.0 is a simulation software that is based on the DGRLVQ algorithm 
+for training and testing tasks of the datasets. To run the software, click on 
+the .jar file. in Cool-D directory. Given below is the view of Cool-D's GUI( I 
+have numbered all features for explanations)</span></p>
+<p><img border="0" src="README1.jpg"></p>
+<p><span lang="en-us">1. Dimension selector that has to be plotted on X-Axis( 
+lets say that the dataset vector has dimension of 10. starting from 0 till 9 on 
+left corner [0,1] means that the scatter plot will be shown w.r.t dimension 0(on 
+x-axis) and 1(on y-axis)</span></p>
+<p><span lang="en-us">2.&nbsp; Dimension Selector. Move the slider to select the 
+dimension that has to be plotted on Y-Axis</span></p>
+<p><span lang="en-us">3. Scatter plot area.</span></p>
+<p><span lang="en-us">4. If the points are out of the plot, by increasing or 
+decreasing &quot;plot transformation&quot; one can adjust the view.</span></p>
+<p><span lang="en-us">5. Plot is drawn w.r.t 1-coordinate(++) 2nd coordinate(- 
++) 3rd (- -) 4th( + -)</span></p>
+<p><span lang="en-us">6. Height of plot</span></p>
+<p><span lang="en-us">7. Width of plot</span></p>
+<p><span lang="en-us">8. If printing of grid is allowed(28) than how congested 
+that grid can be given here.</span></p>
+<p><span lang="en-us">9. For manual training, how many milliseconds to wait 
+between each update cycle for proper visualization.</span></p>
+<p><span lang="en-us">10. After how many updates the network is checked for 
+addition or removal of prototypes( please note, total updates= Modulus X Cycles)</span></p>
+<p><span lang="en-us">11. How many times to check. </span></p>
+<p><span lang="en-us">12. Learning rate decay.</span></p>
+<p><span lang="en-us">13. Learning rate correct.</span></p>
+<p><span lang="en-us">14. Learning rate wrong.</span></p>
+<p><span lang="en-us">15. Learning rate for relevance.</span></p>
+<p><span lang="en-us">16. Initial number of prototypes for each category in 
+network.</span></p>
+<p><span lang="en-us">17. Qualify Winner count.</span></p>
+<p><span lang="en-us">18. Dynamic allocation method</span></p>
+<p><span lang="en-us">19. Distance metric used.</span></p>
+<p><span lang="en-us">20. Killing of loser prototypes( with qualify winner count 
+less than threshold)</span></p>
+<p><span lang="en-us">21. %age per class of prototype that can die at any given 
+update.</span></p>
+<p><span lang="en-us">22. plot data vectors.</span></p>
+<p><span lang="en-us">23. plot prototypes.</span></p>
+<p><span lang="en-us">24. plot voronoi.</span></p>
+<p><span lang="en-us">25 plot the border of plot.</span></p>
+<p><span lang="en-us">26. to show the path transverse by prototypes.</span></p>
+<p><span lang="en-us">27. Normalize relevance factor.</span></p>
+<p><span lang="en-us">28. plot grid.</span></p>
+<p><span lang="en-us">29. fill voronoi area with color.</span></p>
+<p><span lang="en-us">30. plot relevance factor.</span></p>
+<p><span lang="en-us">31. power of relevance.</span></p>
+<p><span lang="en-us">32. power of distance metric.</span></p>
+<p><span lang="en-us">33. event display.</span></p>
+<p><span lang="en-us">34. start training</span></p>
+<p><span lang="en-us">35. stop training.</span></p>
+<p><span lang="en-us">36. reset the GUI with default values.</span></p>
+<p><span lang="en-us">37. after training, one can save the DGRLVQ classifier as 
+a file.</span></p>
+<p><span lang="en-us">38. If classifier is loaded, test file can be tested to 
+measure the performance.</span></p>
+<p><span lang="en-us">39. Loads the training data. format of training data is as 
+following:</span></p>
+<p><span lang="en-us">atr0 atr1 ... atrN ClassLable</span></p>
+<p><span lang="en-us">where dimension of data is N+1. Each attribute, atr_i, is 
+real number. ClassLable is natural number &gt;=0</span></p>
+<p><span lang="en-us">40. Loads the DGRLVQ classifier.</span></p>
+<p><span lang="en-us">41. Loads files to classify</span></p>
+<p><span lang="en-us">42. Saves classified vectors.</span></p>
+<p><span lang="en-us">43. Automatically loads training and testing datasets from 
+a directory and creates report of results.</span></p>
+<p><span lang="en-us">44. Automatically loads the whole dataset, divide it into 
+training and testing sets, trains on training set, creates the DGRLVQ 
+classifier, test the testing set on classifier, creates the report of results 
+and repeat the process D-Times. The division of training and testing set depends 
+on the value of field(45) and the value of D comes from field(46). </span></p>
+<p><span lang="en-us">45. the present of test set for division.</span></p>
+<p><span lang="en-us">46. the number repetition, D-Times.</span></p>
+<p><span lang="en-us">47. After each D-Runs, the value of cycles till to be 
+increased.</span></p>
+<p><span lang="en-us">48. the increment in modulus after each step.</span></p>
+<p><span lang="en-us">49. number of times the increase in modulus to be 
+observed.</span></p>
+<p><span lang="en-us">50. Classify results with probability method.</span></p>
+<p><span lang="en-us">51. If automatic prototype addition is switched ON</span></p>
+<p><span lang="en-us">52. Stop training when training is observed to be 
+completed.</span></p>
+<p><span lang="en-us">53. Probability threshold.</span></p>
+<p><span lang="en-us">54. Watching.</span></p>
+<p><span lang="en-us">55. Debug.</span></p>
+<p><span lang="en-us">56. Set a single training dataset for D-Runs</span></p>
+<p><span lang="en-us">57. Set a single testing dataset for D-Runs</span></p>
+<p><span lang="en-us">58. Run the algo on training and testing dataset( from 56 
+and 57)</span></p>
+<p><span lang="en-us">59. Consol.</span></p>
+<p><span lang="en-us">60. Logo.</span></p>
+<p><font color="#000080"><b><span lang="en-us">3. Fast demo</span></b></font></p>
+<p><b><span lang="en-us">Training:</span></b></p>
+<p><span lang="en-us">Run cool-D by clicking .jar file in Cool-D Directory.</span></p>
+<p><span lang="en-us">Click 39(load pattern) and file browser will appear.</span></p>
+<p><span lang="en-us">select training file <b>cb.2d.txt0_train.txt</b> under 
+directory <b>./Cool-D/codebook/checkerboard/</b></span></p>
+<p><span lang="en-us">change the learning rate Correct(13) to 0.1 ; write 0.1 in 
+the box and press enter key.</span></p>
+<p><span lang="en-us">change the learning rate wrong(14) to 0.01</span></p>
+<p><span lang="en-us">change the learning rate lambda(15) to 0.001</span></p>
+<p><span lang="en-us">change Modulus(10) to 500</span></p>
+<p><span lang="en-us">change Cycle(11) to 6</span></p>
+<p><span lang="en-us">change delay in ms(9) to 10</span></p>
+<p><span lang="en-us">And finally push Start training(34) and watch the 
+animation on the left</span></p>
+<p><span lang="en-us">&nbsp;<b>Testing:</b></span></p>
+<p><span lang="en-us">As the training stops itself after completing all updates 
+OR you can also stop it by pushing Stop training(35)</span></p>
+<p><span lang="en-us">Push Save classifier as (37)</span></p>
+<p><span lang="en-us">Save the classifier as a file somewhere. for example name 
+it as <b>cb.2d.txt0_train.txt.clfr</b></span></p>
+<p><span lang="en-us">Push Load classifier(40)</span></p>
+<p><span lang="en-us">Select the save classifier <b>cb.2d.txt0_train.txt.clfr</b></span></p>
+<p><span lang="en-us">Push Load test file(38)</span></p>
+<p><span lang="en-us">select test file <b>cb.2d.txt0_test.txt</b> under 
+directory <b>./Cool-D/codebook/checkerboard/</b></span></p>
+<p><span lang="en-us">You can view the results in panal(33)</span></p>
+<p><b><span lang="en-us">Automatic demo:</span></b></p>
+<p><span lang="en-us">Now click the Automatic(43)</span></p>
+<p><span lang="en-us">select again training file <b>cb.2d.txt0_train.txt</b> 
+under directory <b>./Cool-D/codebook/checkerboard/</b></span></p>
+<p><span lang="en-us">Wait for a while; please note no animation will be 
+displayed. animation is only available for manual training.</span></p>
+<p><span lang="en-us">Now look for some files generated in the directory <b>
+./Cool-D/codebook/checkerboard/</b> named as log_M=500_C=6.txt log_M=550_C=6.txt 
+log_M=600_C=6.txt and log_M=650_C=6.txt&nbsp; where M=Modulus C=Cycle</span></p>
+<p><span lang="en-us">Here, all the training datasets were loaded, training was 
+conducted, classifiers were generated, testing was done and result report was 
+created.</span></p>
+<p><b><span lang="en-us">Automatic D-Runs on complete dataset:</span></b></p>
+<p><span lang="en-us">Change the value of testing split (45) to 25.</span></p>
+<p><span lang="en-us">Push Algo(44)</span></p>
+<p><span lang="en-us">select the <b>full dataset file cb.2d.txt</b> under 
+directory <b>./Cool-D/codebook/checkerboard/</b></span></p>
+<p><span lang="en-us">wait for a while and have look on the generated .html 
+files in the directory ./Cool-D/codebook/checkerboard/ for eg. log_M=500_C=7_P=25_D=100.html 
+where M=Modulus, C= Cycles, P=TestSplit %age and D= Number of Runs.</span></p>

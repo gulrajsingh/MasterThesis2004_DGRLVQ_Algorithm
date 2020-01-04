@@ -1,0 +1,128 @@
+
+#####Fri Aug 13 14:08:04 CEST 2004#####breast-cancer.data0_train.txt.clfr#####breast-cancer.data0_test.txt#####
+#Error Patterns are as follow:
+#Error Pattern Count= 13
+#Total Pattern= 28
+#Error Persentage= 46.42857142857143
+#Success Persentage= 53.57142857142857
+Prototype of Category 0 has span over 6 points
+Prototype of Category 1 has span over 4 points
+Prototype of Category 0 has span over 3 points
+Prototype of Category 1 has span over 2 points
+#Points missclassified:
+test line 2 with category 0 is missclassified
+test line 3 with category 0 is missclassified
+test line 4 with category 0 is missclassified
+test line 5 with category 0 is missclassified
+test line 7 with category 0 is missclassified
+test line 10 with category 0 is missclassified
+test line 12 with category 0 is missclassified
+test line 14 with category 0 is missclassified
+test line 15 with category 0 is missclassified
+test line 17 with category 0 is missclassified
+test line 19 with category 0 is missclassified
+test line 24 with category 1 is missclassified
+test line 26 with category 1 is missclassified
+
+-------------------------------------------------------
+
+#####Fri Aug 13 14:08:05 CEST 2004#####breast-cancer.data1_train.txt.clfr#####breast-cancer.data1_test.txt#####
+#Error Patterns are as follow:
+#Error Pattern Count= 13
+#Total Pattern= 28
+#Error Persentage= 46.42857142857143
+#Success Persentage= 53.57142857142857
+Prototype of Category 0 has span over 4 points
+Prototype of Category 1 has span over 2 points
+Prototype of Category 0 has span over 5 points
+Prototype of Category 1 has span over 4 points
+#Points missclassified:
+test line 0 with category 0 is missclassified
+test line 4 with category 0 is missclassified
+test line 5 with category 0 is missclassified
+test line 7 with category 0 is missclassified
+test line 9 with category 0 is missclassified
+test line 10 with category 0 is missclassified
+test line 11 with category 0 is missclassified
+test line 12 with category 0 is missclassified
+test line 13 with category 0 is missclassified
+test line 15 with category 0 is missclassified
+test line 19 with category 0 is missclassified
+test line 23 with category 1 is missclassified
+test line 27 with category 1 is missclassified
+
+-------------------------------------------------------
+
+#####Fri Aug 13 14:08:05 CEST 2004#####breast-cancer.data2_train.txt.clfr#####breast-cancer.data2_test.txt#####
+#Error Patterns are as follow:
+#Error Pattern Count= 8
+#Total Pattern= 28
+#Error Persentage= 28.57142857142857
+#Success Persentage= 71.42857142857143
+Prototype of Category 0 has span over 8 points
+Prototype of Category 1 has span over 2 points
+Prototype of Category 0 has span over 5 points
+Prototype of Category 1 has span over 5 points
+#Points missclassified:
+test line 2 with category 0 is missclassified
+test line 5 with category 0 is missclassified
+test line 10 with category 0 is missclassified
+test line 11 with category 0 is missclassified
+test line 14 with category 0 is missclassified
+test line 15 with category 0 is missclassified
+test line 18 with category 0 is missclassified
+test line 22 with category 1 is missclassified
+
+-------------------------------------------------------
+
+#####Fri Aug 13 14:08:06 CEST 2004#####breast-cancer.data3_train.txt.clfr#####breast-cancer.data3_test.txt#####
+#Error Patterns are as follow:
+#Error Pattern Count= 10
+#Total Pattern= 28
+#Error Persentage= 35.714285714285715
+#Success Persentage= 64.28571428571428
+Prototype of Category 0 has span over 7 points
+Prototype of Category 1 has span over 3 points
+Prototype of Category 0 has span over 5 points
+Prototype of Category 1 has span over 3 points
+#Points missclassified:
+test line 1 with category 0 is missclassified
+test line 3 with category 0 is missclassified
+test line 4 with category 0 is missclassified
+test line 6 with category 0 is missclassified
+test line 7 with category 0 is missclassified
+test line 9 with category 0 is missclassified
+test line 10 with category 0 is missclassified
+test line 19 with category 0 is missclassified
+test line 23 with category 1 is missclassified
+test line 24 with category 1 is missclassified
+
+-------------------------------------------------------
+
+#####Fri Aug 13 14:08:06 CEST 2004#####breast-cancer.data4_train.txt.clfr#####breast-cancer.data4_test.txt#####
+#Error Patterns are as follow:
+#Error Pattern Count= 14
+#Total Pattern= 28
+#Error Persentage= 50.0
+#Success Persentage= 50.0
+Prototype of Category 0 has span over 7 points
+Prototype of Category 1 has span over 3 points
+Prototype of Category 0 has span over 1 points
+Prototype of Category 1 has span over 3 points
+#Points missclassified:
+test line 0 with category 0 is missclassified
+test line 1 with category 0 is missclassified
+test line 2 with category 0 is missclassified
+test line 5 with category 0 is missclassified
+test line 6 with category 0 is missclassified
+test line 7 with category 0 is missclassified
+test line 9 with category 0 is missclassified
+test line 10 with category 0 is missclassified
+test line 11 with category 0 is missclassified
+test line 14 with category 0 is missclassified
+test line 16 with category 0 is missclassified
+test line 19 with category 0 is missclassified
+test line 22 with category 1 is missclassified
+test line 25 with category 1 is missclassified
+
+-------------------------------------------------------

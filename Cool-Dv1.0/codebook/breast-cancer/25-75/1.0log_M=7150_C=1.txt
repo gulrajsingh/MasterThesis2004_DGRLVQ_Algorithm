@@ -1,0 +1,95 @@
+
+0#####Mon Aug 30 02:41:59 CEST 2004#####breast-cancer.data0_train.txt.clfr#####breast-cancer.data0_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 0
+#Total Pattern= 213
+#Total Relative Pattern= 0
+#Error= NaN %
+#Success= NaN %
+#Sensitivity= NaN %
+#Specificity= NaN %
+#PPV= NaN %
+#NPV= NaN %
+Prototype of Category 0 has span over 0 points
+Prototype of Category 1 has span over 0 points
+#Points missclassified:
+
+-------------------------------------------------------
+
+1#####Mon Aug 30 02:41:59 CEST 2004#####breast-cancer.data1_train.txt.clfr#####breast-cancer.data1_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 0
+#Total Pattern= 213
+#Total Relative Pattern= 0
+#Error= NaN %
+#Success= NaN %
+#Sensitivity= NaN %
+#Specificity= NaN %
+#PPV= NaN %
+#NPV= NaN %
+Prototype of Category 0 has span over 0 points
+Prototype of Category 1 has span over 0 points
+#Points missclassified:
+
+-------------------------------------------------------
+
+2#####Mon Aug 30 02:42:00 CEST 2004#####breast-cancer.data2_train.txt.clfr#####breast-cancer.data2_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 0
+#Total Pattern= 213
+#Total Relative Pattern= 0
+#Error= NaN %
+#Success= NaN %
+#Sensitivity= NaN %
+#Specificity= NaN %
+#PPV= NaN %
+#NPV= NaN %
+Prototype of Category 0 has span over 0 points
+Prototype of Category 1 has span over 0 points
+#Points missclassified:
+
+-------------------------------------------------------
+
+3#####Mon Aug 30 02:42:00 CEST 2004#####breast-cancer.data3_train.txt.clfr#####breast-cancer.data3_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 0
+#Total Pattern= 213
+#Total Relative Pattern= 0
+#Error= NaN %
+#Success= NaN %
+#Sensitivity= NaN %
+#Specificity= NaN %
+#PPV= NaN %
+#NPV= NaN %
+Prototype of Category 0 has span over 0 points
+Prototype of Category 1 has span over 0 points
+#Points missclassified:
+
+-------------------------------------------------------
+
+4#####Mon Aug 30 02:42:00 CEST 2004#####breast-cancer.data4_train.txt.clfr#####breast-cancer.data4_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 0
+#Total Pattern= 213
+#Total Relative Pattern= 0
+#Error= NaN %
+#Success= NaN %
+#Sensitivity= NaN %
+#Specificity= NaN %
+#PPV= NaN %
+#NPV= NaN %
+Prototype of Category 0 has span over 0 points
+Prototype of Category 1 has span over 0 points
+#Points missclassified:
+
+-------------------------------------------------------

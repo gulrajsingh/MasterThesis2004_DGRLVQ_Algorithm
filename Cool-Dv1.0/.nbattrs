@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CancerPredictor.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="CancerPredictor"/>
+    </fileobject>
+    <fileobject name="Cool-Dv1.0.jarContent">
+        <attr name="readOnlyAttrs" boolvalue="false"/>
+    </fileobject>
+    <fileobject name="DGRLVQAlgoRunner.java">
+        <attr name="class_dependency_java.lang.Runnable" stringvalue="DGRLVQAlgoRunner"/>
+    </fileobject>
+    <fileobject name="DatasetEditor.java">
+        <attr name="NetBeansAttrArguments" serialvalue="aced0005757200135b4c6a6176612e6c616e672e537472696e673badd256e7e91d7b470200007870000000027400072d586d6e3235367400082d586d783235366d"/>
+        <attr name="NetBeansAttrExecutor" serialvalue="aced00057372001e6f72672e6f70656e6964652e53657276696365547970652448616e646c6564612acc871b81080300024c0009636c6173734e616d657400124c6a6176612f6c616e672f537472696e673b4c00046e616d6571007e0001787074001245787465726e616c20457865637574696f6e74002d6f72672e6e65746265616e732e6d6f64756c65732e6a6176612e4a61766150726f636573734578656375746f7278"/>
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="DatasetEditor"/>
+    </fileobject>
+    <fileobject name="GetAttributes.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="GetAttributes"/>
+    </fileobject>
+    <fileobject name="HackClassifier.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="HackClassifier"/>
+    </fileobject>
+    <fileobject name="JoinDatasetFilesToSingleProcessedFile.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="JoinDatasetFilesToSingleProcessedFile"/>
+    </fileobject>
+    <fileobject name="JoinSpectrumDataFilesToSingleDataFile.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="JoinSpectrumDataFilesToSingleDataFile"/>
+    </fileobject>
+    <fileobject name="LambdaPlot.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="LambdaPlot"/>
+    </fileobject>
+    <fileobject name="PCAHack.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="PCAHack"/>
+    </fileobject>
+    <fileobject name="PCAcorr.java">
+        <attr name="NetBeansAttrArguments" serialvalue="aced0005757200135b4c6a6176612e6c616e672e537472696e673badd256e7e91d7b4702000078700000000674000c433a5c446f6b756d656e7465740003756e6474002445696e7374656c6c756e67656e5c4d726f6b5c4465736b746f705c64617461322e74787474000c633a5c446f6b756d656e7465740003756e6474002445696e7374656c6c756e67656e5c4d726f6b5c4465736b746f705c64617461322e747874"/>
+    </fileobject>
+    <fileobject name="PaintingViewer.java">
+        <attr name="class_dependency_javax.swing.JFrame" stringvalue="PaintingViewer"/>
+    </fileobject>
+    <fileobject name="Plot.java">
+        <attr name="class_dependency_java.awt.Canvas" stringvalue="Plot"/>
+        <attr name="class_dependency_java.awt.event.MouseMotionListener" stringvalue="Plot"/>
+    </fileobject>
+    <fileobject name="iris.dat">
+        <attr name="org.netbeans.modules.text.IsTextFile" boolvalue="true"/>
+    </fileobject>
+</attributes>

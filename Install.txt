@@ -1,0 +1,5 @@
+Copy everything on your local Hard disk. Do not run the application directly from CD.
+
+Read README.html for more details
+
+Read LICENSE.txt

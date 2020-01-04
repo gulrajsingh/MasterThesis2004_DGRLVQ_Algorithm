@@ -1,0 +1,364 @@
+
+0#####Mon Aug 30 02:41:18 CEST 2004#####breast-cancer.data0_train.txt.clfr#####breast-cancer.data0_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 60
+#Total Pattern= 213
+#Total Relative Pattern= 135
+#Error= 44.44444444444444 %
+#Success= 55.55555555555556 %
+#Sensitivity= 56.25 %
+#Specificity= 55.172413793103445 %
+#PPV= 40.909090909090914 %
+#NPV= 69.56521739130434 %
+Prototype of Category 0 has span over 48 points
+Prototype of Category 1 has span over 27 points
+#Points missclassified:
+test line 1 with category 0 is missclassified
+test line 2 with category 0 is missclassified
+test line 3 with category 0 is missclassified
+test line 9 with category 0 is missclassified
+test line 23 with category 0 is missclassified
+test line 24 with category 0 is missclassified
+test line 26 with category 0 is missclassified
+test line 27 with category 0 is missclassified
+test line 34 with category 0 is missclassified
+test line 36 with category 0 is missclassified
+test line 40 with category 0 is missclassified
+test line 41 with category 0 is missclassified
+test line 42 with category 0 is missclassified
+test line 46 with category 0 is missclassified
+test line 47 with category 0 is missclassified
+test line 49 with category 0 is missclassified
+test line 51 with category 0 is missclassified
+test line 53 with category 0 is missclassified
+test line 59 with category 0 is missclassified
+test line 61 with category 0 is missclassified
+test line 71 with category 0 is missclassified
+test line 80 with category 0 is missclassified
+test line 83 with category 0 is missclassified
+test line 86 with category 0 is missclassified
+test line 90 with category 0 is missclassified
+test line 92 with category 0 is missclassified
+test line 97 with category 0 is missclassified
+test line 107 with category 0 is missclassified
+test line 108 with category 0 is missclassified
+test line 111 with category 0 is missclassified
+test line 113 with category 0 is missclassified
+test line 120 with category 0 is missclassified
+test line 127 with category 0 is missclassified
+test line 128 with category 0 is missclassified
+test line 129 with category 0 is missclassified
+test line 130 with category 0 is missclassified
+test line 136 with category 0 is missclassified
+test line 140 with category 0 is missclassified
+test line 143 with category 0 is missclassified
+test line 150 with category 1 is missclassified
+test line 152 with category 1 is missclassified
+test line 155 with category 1 is missclassified
+test line 156 with category 1 is missclassified
+test line 157 with category 1 is missclassified
+test line 158 with category 1 is missclassified
+test line 160 with category 1 is missclassified
+test line 161 with category 1 is missclassified
+test line 162 with category 1 is missclassified
+test line 171 with category 1 is missclassified
+test line 173 with category 1 is missclassified
+test line 175 with category 1 is missclassified
+test line 177 with category 1 is missclassified
+test line 187 with category 1 is missclassified
+test line 188 with category 1 is missclassified
+test line 194 with category 1 is missclassified
+test line 198 with category 1 is missclassified
+test line 199 with category 1 is missclassified
+test line 205 with category 1 is missclassified
+test line 206 with category 1 is missclassified
+test line 211 with category 1 is missclassified
+
+-------------------------------------------------------
+
+1#####Mon Aug 30 02:41:18 CEST 2004#####breast-cancer.data1_train.txt.clfr#####breast-cancer.data1_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 74
+#Total Pattern= 213
+#Total Relative Pattern= 156
+#Error= 47.43589743589743 %
+#Success= 52.56410256410257 %
+#Sensitivity= 51.85185185185185 %
+#Specificity= 52.94117647058824 %
+#PPV= 36.84210526315789 %
+#NPV= 67.5 %
+Prototype of Category 0 has span over 54 points
+Prototype of Category 1 has span over 28 points
+#Points missclassified:
+test line 0 with category 0 is missclassified
+test line 4 with category 0 is missclassified
+test line 5 with category 0 is missclassified
+test line 7 with category 0 is missclassified
+test line 10 with category 0 is missclassified
+test line 20 with category 0 is missclassified
+test line 22 with category 0 is missclassified
+test line 23 with category 0 is missclassified
+test line 25 with category 0 is missclassified
+test line 26 with category 0 is missclassified
+test line 30 with category 0 is missclassified
+test line 49 with category 0 is missclassified
+test line 50 with category 0 is missclassified
+test line 54 with category 0 is missclassified
+test line 55 with category 0 is missclassified
+test line 66 with category 0 is missclassified
+test line 68 with category 0 is missclassified
+test line 78 with category 0 is missclassified
+test line 79 with category 0 is missclassified
+test line 80 with category 0 is missclassified
+test line 81 with category 0 is missclassified
+test line 87 with category 0 is missclassified
+test line 88 with category 0 is missclassified
+test line 89 with category 0 is missclassified
+test line 91 with category 0 is missclassified
+test line 93 with category 0 is missclassified
+test line 95 with category 0 is missclassified
+test line 97 with category 0 is missclassified
+test line 100 with category 0 is missclassified
+test line 101 with category 0 is missclassified
+test line 102 with category 0 is missclassified
+test line 106 with category 0 is missclassified
+test line 110 with category 0 is missclassified
+test line 113 with category 0 is missclassified
+test line 116 with category 0 is missclassified
+test line 119 with category 0 is missclassified
+test line 120 with category 0 is missclassified
+test line 121 with category 0 is missclassified
+test line 123 with category 0 is missclassified
+test line 124 with category 0 is missclassified
+test line 126 with category 0 is missclassified
+test line 127 with category 0 is missclassified
+test line 128 with category 0 is missclassified
+test line 132 with category 0 is missclassified
+test line 134 with category 0 is missclassified
+test line 137 with category 0 is missclassified
+test line 139 with category 0 is missclassified
+test line 147 with category 0 is missclassified
+test line 151 with category 1 is missclassified
+test line 152 with category 1 is missclassified
+test line 155 with category 1 is missclassified
+test line 157 with category 1 is missclassified
+test line 158 with category 1 is missclassified
+test line 160 with category 1 is missclassified
+test line 163 with category 1 is missclassified
+test line 164 with category 1 is missclassified
+test line 165 with category 1 is missclassified
+test line 166 with category 1 is missclassified
+test line 167 with category 1 is missclassified
+test line 169 with category 1 is missclassified
+test line 172 with category 1 is missclassified
+test line 174 with category 1 is missclassified
+test line 175 with category 1 is missclassified
+test line 179 with category 1 is missclassified
+test line 183 with category 1 is missclassified
+test line 189 with category 1 is missclassified
+test line 190 with category 1 is missclassified
+test line 200 with category 1 is missclassified
+test line 202 with category 1 is missclassified
+test line 204 with category 1 is missclassified
+test line 206 with category 1 is missclassified
+test line 207 with category 1 is missclassified
+test line 210 with category 1 is missclassified
+test line 211 with category 1 is missclassified
+
+-------------------------------------------------------
+
+2#####Mon Aug 30 02:41:19 CEST 2004#####breast-cancer.data2_train.txt.clfr#####breast-cancer.data2_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 11
+#Total Pattern= 213
+#Total Relative Pattern= 26
+#Error= 42.30769230769231 %
+#Success= 57.69230769230769 %
+#Sensitivity= 85.71428571428571 %
+#Specificity= 25.0 %
+#PPV= 57.14285714285714 %
+#NPV= 60.0 %
+Prototype of Category 0 has span over 3 points
+Prototype of Category 1 has span over 12 points
+#Points missclassified:
+test line 1 with category 0 is missclassified
+test line 15 with category 0 is missclassified
+test line 27 with category 0 is missclassified
+test line 41 with category 0 is missclassified
+test line 58 with category 0 is missclassified
+test line 73 with category 0 is missclassified
+test line 83 with category 0 is missclassified
+test line 89 with category 0 is missclassified
+test line 92 with category 0 is missclassified
+test line 177 with category 1 is missclassified
+test line 208 with category 1 is missclassified
+
+-------------------------------------------------------
+
+3#####Mon Aug 30 02:41:19 CEST 2004#####breast-cancer.data3_train.txt.clfr#####breast-cancer.data3_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 75
+#Total Pattern= 213
+#Total Relative Pattern= 156
+#Error= 48.07692307692308 %
+#Success= 51.92307692307692 %
+#Sensitivity= 56.36363636363636 %
+#Specificity= 49.504950495049506 %
+#PPV= 37.80487804878049 %
+#NPV= 67.56756756756756 %
+Prototype of Category 0 has span over 50 points
+Prototype of Category 1 has span over 31 points
+#Points missclassified:
+test line 1 with category 0 is missclassified
+test line 4 with category 0 is missclassified
+test line 8 with category 0 is missclassified
+test line 19 with category 0 is missclassified
+test line 22 with category 0 is missclassified
+test line 23 with category 0 is missclassified
+test line 24 with category 0 is missclassified
+test line 25 with category 0 is missclassified
+test line 29 with category 0 is missclassified
+test line 31 with category 0 is missclassified
+test line 35 with category 0 is missclassified
+test line 39 with category 0 is missclassified
+test line 40 with category 0 is missclassified
+test line 41 with category 0 is missclassified
+test line 45 with category 0 is missclassified
+test line 47 with category 0 is missclassified
+test line 50 with category 0 is missclassified
+test line 51 with category 0 is missclassified
+test line 52 with category 0 is missclassified
+test line 54 with category 0 is missclassified
+test line 56 with category 0 is missclassified
+test line 57 with category 0 is missclassified
+test line 59 with category 0 is missclassified
+test line 61 with category 0 is missclassified
+test line 62 with category 0 is missclassified
+test line 64 with category 0 is missclassified
+test line 65 with category 0 is missclassified
+test line 66 with category 0 is missclassified
+test line 69 with category 0 is missclassified
+test line 70 with category 0 is missclassified
+test line 72 with category 0 is missclassified
+test line 77 with category 0 is missclassified
+test line 83 with category 0 is missclassified
+test line 89 with category 0 is missclassified
+test line 93 with category 0 is missclassified
+test line 98 with category 0 is missclassified
+test line 101 with category 0 is missclassified
+test line 106 with category 0 is missclassified
+test line 107 with category 0 is missclassified
+test line 108 with category 0 is missclassified
+test line 109 with category 0 is missclassified
+test line 117 with category 0 is missclassified
+test line 118 with category 0 is missclassified
+test line 120 with category 0 is missclassified
+test line 121 with category 0 is missclassified
+test line 123 with category 0 is missclassified
+test line 130 with category 0 is missclassified
+test line 136 with category 0 is missclassified
+test line 137 with category 0 is missclassified
+test line 142 with category 0 is missclassified
+test line 148 with category 0 is missclassified
+test line 150 with category 1 is missclassified
+test line 151 with category 1 is missclassified
+test line 152 with category 1 is missclassified
+test line 153 with category 1 is missclassified
+test line 158 with category 1 is missclassified
+test line 162 with category 1 is missclassified
+test line 164 with category 1 is missclassified
+test line 168 with category 1 is missclassified
+test line 169 with category 1 is missclassified
+test line 170 with category 1 is missclassified
+test line 173 with category 1 is missclassified
+test line 174 with category 1 is missclassified
+test line 175 with category 1 is missclassified
+test line 176 with category 1 is missclassified
+test line 185 with category 1 is missclassified
+test line 186 with category 1 is missclassified
+test line 193 with category 1 is missclassified
+test line 195 with category 1 is missclassified
+test line 196 with category 1 is missclassified
+test line 197 with category 1 is missclassified
+test line 198 with category 1 is missclassified
+test line 199 with category 1 is missclassified
+test line 201 with category 1 is missclassified
+test line 209 with category 1 is missclassified
+
+-------------------------------------------------------
+
+4#####Mon Aug 30 02:41:19 CEST 2004#####breast-cancer.data4_train.txt.clfr#####breast-cancer.data4_test.txt#####
+
+Probabilistic Classification:-
+#Error Patterns are as follow:
+#Error Pattern Count= 49
+#Total Pattern= 213
+#Total Relative Pattern= 110
+#Error= 44.54545454545455 %
+#Success= 55.45454545454545 %
+#Sensitivity= 57.14285714285714 %
+#Specificity= 54.666666666666664 %
+#PPV= 37.03703703703704 %
+#NPV= 73.21428571428571 %
+Prototype of Category 0 has span over 41 points
+Prototype of Category 1 has span over 20 points
+#Points missclassified:
+test line 6 with category 0 is missclassified
+test line 11 with category 0 is missclassified
+test line 14 with category 0 is missclassified
+test line 22 with category 0 is missclassified
+test line 29 with category 0 is missclassified
+test line 38 with category 0 is missclassified
+test line 45 with category 0 is missclassified
+test line 54 with category 0 is missclassified
+test line 75 with category 0 is missclassified
+test line 77 with category 0 is missclassified
+test line 81 with category 0 is missclassified
+test line 83 with category 0 is missclassified
+test line 88 with category 0 is missclassified
+test line 93 with category 0 is missclassified
+test line 95 with category 0 is missclassified
+test line 96 with category 0 is missclassified
+test line 98 with category 0 is missclassified
+test line 118 with category 0 is missclassified
+test line 119 with category 0 is missclassified
+test line 124 with category 0 is missclassified
+test line 126 with category 0 is missclassified
+test line 127 with category 0 is missclassified
+test line 128 with category 0 is missclassified
+test line 129 with category 0 is missclassified
+test line 130 with category 0 is missclassified
+test line 134 with category 0 is missclassified
+test line 135 with category 0 is missclassified
+test line 136 with category 0 is missclassified
+test line 138 with category 0 is missclassified
+test line 139 with category 0 is missclassified
+test line 141 with category 0 is missclassified
+test line 142 with category 0 is missclassified
+test line 143 with category 0 is missclassified
+test line 146 with category 0 is missclassified
+test line 162 with category 1 is missclassified
+test line 165 with category 1 is missclassified
+test line 167 with category 1 is missclassified
+test line 169 with category 1 is missclassified
+test line 173 with category 1 is missclassified
+test line 179 with category 1 is missclassified
+test line 182 with category 1 is missclassified
+test line 185 with category 1 is missclassified
+test line 189 with category 1 is missclassified
+test line 194 with category 1 is missclassified
+test line 201 with category 1 is missclassified
+test line 206 with category 1 is missclassified
+test line 207 with category 1 is missclassified
+test line 208 with category 1 is missclassified
+test line 209 with category 1 is missclassified
+
+-------------------------------------------------------
